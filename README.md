@@ -1,1 +1,1 @@
-# Email-spam-detection
+The Email Spam Classifier aims to detect unwanted or harmful emails by learning patterns from historical labeled data. The project uses text preprocessing techniques such as tokenization, stopword removal, stemming/lemmatization, and vectorization (TF-IDF/Bag of Words). Machine learning algorithms like Naïve Bayes, Logistic Regression, SVM, and Random Forest are trained and evaluated to select the best-performing model.
